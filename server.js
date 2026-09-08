@@ -1,3 +1,4 @@
+// Backend API endpoints for the POS system.
 import express from 'express';
 import cors from 'cors';
 import crypto from 'crypto';
